@@ -1,6 +1,6 @@
 # Hi, I'm Fran 👋
 
-![Francesc Busquet](https://user-images.githubusercontent.com/26624411/133979956-9ce66307-2184-45d4-8a80-d3bcb85febd9.gif)
+![header](https://user-images.githubusercontent.com/26624411/133983910-e6516b12-f34b-4829-90c1-c949bdc41136.gif)
 
 I am an economist and data scientist working as a research associate at the Institute of Behavioral Science and Technology (IBT) at the University of St. Gallen. 
 

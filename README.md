@@ -1,6 +1,6 @@
 # Hi, I'm Fran 👋
 
-![header](https://user-images.githubusercontent.com/26624411/133983910-e6516b12-f34b-4829-90c1-c949bdc41136.gif)
+![header](https://user-images.githubusercontent.com/26624411/133984977-6d9a42f7-e272-482a-9743-a48cb5954964.png)
 
 I am an economist and data scientist working as a research associate at the Institute of Behavioral Science and Technology (IBT) at the University of St. Gallen. 
 
